@@ -19,7 +19,7 @@ Observar dónde se podría incluir un logo o icono usando base64, por ejemplo, e
 miperfil.html
 
 Notar la presencia de un elemento de imagen para la foto de perfil:
-htmlCopy<img src="/api/placeholder/150/150" id="profilePic" class="profile-pic me-3" alt="Foto de perfil">
+htmlCopy<img src="/images/perfil.png" id="profilePic" class="profile-pic me-3" alt="Foto de perfil">
 Este es un lugar ideal para discutir cómo se podría reemplazar la URL con una cadena de base64.
 Considerar cómo los iconos en la barra de navegación y en los elementos del menú desplegable podrían ser implementados usando imágenes en base64.
 
